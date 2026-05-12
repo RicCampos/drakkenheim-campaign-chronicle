@@ -1,3 +1,5 @@
+THIS WAS CREATED FOR THE DAGGERHEART MODULE.
+
 1. Clonem o repo para uma pasta;
 2. Abram o Chronicler (Ou outra app de Markdown eg. Obsidian) e escolham essa pasta como vault;
 3. Feito!
