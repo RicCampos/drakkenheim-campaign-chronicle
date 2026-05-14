@@ -13,28 +13,9 @@ Affiliations: [ "[[Hooded Lanterns]]" ]
 ---
 
 # Overview
-
-##### ***Personality Traits***
-<ul>
- <li>Estou em Drakkenheim há tempo suficiente para saber não confiar em ninguém;</li>
- <li>Sou extremamente cauteloso com aventureiros e com quem possa causar problemas aos [[Hooded Lanterns]];</li>
-</ul>
-
-##### *Ideals*
-<ul>
- <li>Se eu e a minha irmã trabalharmos suficiente, com as pessoas certas, talvez consigamos mudar as coisas.</li>
-</ul>
-
-##### *Bonds*
-<ul>
- <li>Eu e [[Petra Lang]] protegemos as costas um do outro desde crianças e isso nunca mudará.</li>
-</ul>
-
-##### *Flaws*
-<ul>
- <li>Encontro razões para não gostar de pessoas e para duvidar do compromisso das pessoas à minha volta.</li>
-</ul>
-
-# Objectives
-
-# Stat Block
+Ansom Lang é o Capitão dos Hooded Lanterns, agindo juntamente com a sua irmã [[Petra Lang]] como braço direito de [[Elias Drexel|Lord Commander Elias Drexel]].
+## Interações
+Capturado por [[Ratlings]] e levado até ao seu ninho debaixo da [[Rat's Nest Tavern]] durante uma incursão mal planeada. A sua captura permitiu aos seus camaradas saírem são e salvos da emboscada. Foi aqui encontrado e resgatado por um bando de aventureiros que retornaram com ele à [[Emberwood Village]].
+- Pediu aos aventureiros que o levassem a [[Shepherd's Gate]], onde se poderia reunir com os seus camaradas.
+## Personalidade
+Desconfiado, mas as suas circunstâncias não o permitiam recusar ajuda. Parece ser uma pessoa genuína mas cautelosa.

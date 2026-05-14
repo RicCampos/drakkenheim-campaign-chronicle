@@ -15,24 +15,24 @@ Affiliations: [ "[[Amethyst Academy]]" ]
 # Overview
 River é sempre acompanhada por um Imp familiar e um Shield Guardian bodyguard.
 
-##### ***Personality Traits***
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Personality Traits*</span>
 <ul>
  <li>Uso terminologia académica precisa;</li>
  <li>Com aqueles que considero competentes e capazes, injeto um sentido de humor irónico e sardónico.</li>
 </ul>
 
-##### *Ideals*
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Ideals*</span>
 <ul>
  <li>Gosto de pessoas professionais, que mostram resultados, e que não fazem questões;</li>
  <li>Não suporto aqueles que me fazem perder tempo com idiotices, regateios e desculpas.</li>
 </ul>
 
-##### *Bonds*
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Bonds*</span>
 <ul>
  <li>[[Eldrick Runeweaver]] é o meu mentor, professor e amigo. Trabalhei com ele durante anos e todo o seu sucesso é meu também.</li>
 </ul>
 
-##### *Flaws*
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Flaws*</span>
 <ul>
  <li>Cresci rodeada pelos confortos mágicos da [[Amethyst Academy]] e por isso não compreendo como é a vida dos que tiveram outro tipo de educação.</li>
 </ul>

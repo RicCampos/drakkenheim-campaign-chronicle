@@ -28,19 +28,19 @@ Agora reduzidos a combater uma guerrilha contra monstros, bandidos e farrapeiros
 
 # Strongholds
 
-# Key Characters
-<div class="gallery">
+# Characters
+<div class="small gallery">
   <figure>
     [[Elias Drexel|![[npc_elias_drexel.png]]]]
-    <figcaption>Lord Commander Elias Drexel</figcaption>
+    <figcaption style="font-weight:bold; color:lavender">Lord Commander Elias Drexel</figcaption>
   </figure>
   <figure>
     [[Petra Lang|![[npc_petra_lang.png]]]]
-    <figcaption>Lieutenant Petra Lang</figcaption>
+    <figcaption style="font-weight:bold; color:lavender">Lieutenant Petra Lang</figcaption>
   </figure>
   <figure>
     [[Ansom Lang|![[npc_ansom_lang.png]]]]
-    <figcaption>Captain Ansom Lang</figcaption>
+    <figcaption style="font-weight:bold; color:lavender">Captain Ansom Lang</figcaption>
   </figure>
 </div>
 

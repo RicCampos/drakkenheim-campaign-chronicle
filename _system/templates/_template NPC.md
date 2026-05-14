@@ -8,22 +8,22 @@ Descrição: ""
 
 # Overview
 
-##### ***Personality Traits***
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Personality Traits*</span>
 <ul>
  <li>Trait;</li>
 </ul>
 
-##### *Ideals*
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Ideals*</span>
 <ul>
  <li>Ideal;</li>
 </ul>
 
-##### *Bonds*
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Bonds*</span>
 <ul>
  <li>Bond;</li>
 </ul>
 
-##### *Flaws*
+<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Flaws*</span>
 <ul>
  <li>Flaw;</li>
 </ul>

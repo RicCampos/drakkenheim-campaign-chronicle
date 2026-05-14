@@ -30,15 +30,15 @@ O [[Eldrick Runeweaver|Archwizard Eldrick Runeweaver]] lidera os esforços para 
 
 # Strongholds
 
-# Key Characters
-<div class="gallery">
+# Characters
+<div class="small gallery">
   <figure>
     [[Eldrick Runeweaver|![[npc_eldrick_runeweaver.png]]]]
-    <figcaption>Archwizard Eldrick Runeweaver</figcaption>
+    <figcaption style="font-weight:bold; color:lavender">Archwizard Eldrick Runeweaver</figcaption>
   </figure>
   <figure>
     [[River|![[npc_river.png]]]]
-    <figcaption>River</figcaption>
+    <figcaption style="font-weight:bold; color:lavender">River</figcaption>
   </figure>
 </div>
 

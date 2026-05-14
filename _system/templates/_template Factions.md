@@ -25,11 +25,15 @@ Key Characters: []
 
 # Strongholds
 
-# Key Characters
+# Characters
 <div class="gallery">
   <figure>
     [[Character Page|![[npc_image.png]]]]
-    <figcaption>Caption</figcaption>
+    <figcaption style="font-weight:bold; color:lavender">Key Character</figcaption>
+  </figure>
+  <figure>
+    [[Character Page|![[npc_image.png]]]]
+    <figcaption>Faction Member</figcaption>
   </figure>
 </div>
 
