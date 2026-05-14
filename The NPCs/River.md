@@ -13,30 +13,12 @@ Affiliations: [ "[[Amethyst Academy]]" ]
 ---
 
 # Overview
-River é sempre acompanhada por um Imp familiar e um Shield Guardian bodyguard.
+Conhecida por agir como braço direito do [[Eldrick Runeweaver|Archwizard Eldrick Runeweaver]], o responsável pelas ações da [[Amethyst Academy]] em Drakkenheim.
+<div>
+  River é sempre acompanhada por um Imp familiar e um Shield Guardian bodyguard.</div>
+  
+## Interações
+Os aventureiros que resgataram o [[Ansom Lang|Capitão Ansom Lang]] na [[Rat's Nest Tavern]] teriam ido a pedido de River, numa incursão para a [[Amethyst Academy]]. Talvez para investigar os rumores sobre um Cristal de Delerium que lá existia.
 
-<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Personality Traits*</span>
-<ul>
- <li>Uso terminologia académica precisa;</li>
- <li>Com aqueles que considero competentes e capazes, injeto um sentido de humor irónico e sardónico.</li>
-</ul>
-
-<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Ideals*</span>
-<ul>
- <li>Gosto de pessoas professionais, que mostram resultados, e que não fazem questões;</li>
- <li>Não suporto aqueles que me fazem perder tempo com idiotices, regateios e desculpas.</li>
-</ul>
-
-<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Bonds*</span>
-<ul>
- <li>[[Eldrick Runeweaver]] é o meu mentor, professor e amigo. Trabalhei com ele durante anos e todo o seu sucesso é meu também.</li>
-</ul>
-
-<span style="font-family: 'Cinzel'; font-size: 0.9rem; color:salmon; font-weight:bold">*Flaws*</span>
-<ul>
- <li>Cresci rodeada pelos confortos mágicos da [[Amethyst Academy]] e por isso não compreendo como é a vida dos que tiveram outro tipo de educação.</li>
-</ul>
-
-# Objectives
-
-# Stat Block
+## Personalidade
+Profissional e concisa.
